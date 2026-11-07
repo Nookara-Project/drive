@@ -1,0 +1,214 @@
+{
+  "drive": {
+    "err_generic": "Etwas ist schiefgelaufen ({code}).",
+    "gate": {
+      "popup": "Dein Browser hat das Anmeldefenster blockiert. Erlaube Pop-ups für diese Seite und versuch es noch einmal.",
+      "failed": "Das hat nicht geklappt. Versuch es noch einmal.",
+      "button": "Mit Nookara anmelden",
+      "pitch_title": "Deine Dateien, in deinem Nookara-Konto.",
+      "pitch": "Lade alles hoch, ordne es in Ordnern und öffne es in jedem Browser. Deine Dateien haben keine öffentlichen Links.",
+      "lead": "Drive hat eine eigene Anmeldung. Dein Nookara-Konto bleibt angemeldet, wo es ist.",
+      "fine": "Auf dem nächsten Bildschirm wählst du, was Drive darf."
+    },
+    "new": "Neu",
+    "storage_low": "Speicher (unter 1% belegt)",
+    "storage_pct": "Speicher ({pct}% belegt)",
+    "storage_of": "{used} von {limit} belegt",
+    "more_storage": "Mehr Speicher holen",
+    "search": "Dateien und Ordner suchen",
+    "menu": "Menü",
+    "account": "Konto",
+    "layout_list": "Liste",
+    "layout_grid": "Raster",
+    "f": {
+      "type": "Typ",
+      "folders": "Ordner",
+      "images": "Bilder",
+      "video": "Videos",
+      "audio": "Audio",
+      "docs": "Dokumente",
+      "archives": "Archive",
+      "modified": "Geändert",
+      "day": "Heute",
+      "week": "Letzte 7 Tage",
+      "month": "Letzte 30 Tage",
+      "year": "Dieses Jahr",
+      "folder": "Ein Ordner",
+      "location": "Ort",
+      "anywhere": "Überall"
+    },
+    "nav": {
+      "drive": "Mein Drive",
+      "with_me": "Mit mir geteilt",
+      "recent": "Zuletzt",
+      "shared": "Geteilt",
+      "bin": "Papierkorb",
+      "media": "Medien",
+      "apps": "App-Dateien",
+      "home": "Start"
+    },
+    "sel": {
+      "clear": "Auswahl aufheben",
+      "count": "{n} ausgewählt",
+      "all": "Alle auswählen",
+      "one": "{name} auswählen",
+      "move_title": "{n} verschieben nach...",
+      "one_item": "1 Element",
+      "n_items": "{n} Elemente",
+      "binned": "In den Papierkorb verschoben"
+    },
+    "act": {
+      "download": "Herunterladen",
+      "share": "Teilen",
+      "move": "Verschieben",
+      "rename": "Umbenennen",
+      "delete": "In den Papierkorb",
+      "more": "Mehr",
+      "open": "Öffnen",
+      "preview": "Vorschau",
+      "move_here": "Hierher verschieben"
+    },
+    "home": {
+      "title": "Willkommen zurück, {name}.",
+      "suggested": "Zuletzt geändert",
+      "empty": "Noch nichts hier",
+      "empty_hint": "Drücke auf Neu oder lege Dateien irgendwo auf dieser Seite ab."
+    },
+    "read_only": "Du hast dich mit „Nur lesen\" angemeldet: Du kannst ansehen und herunterladen, aber nichts ändern. Melde dich ab und wieder an, um das zu ändern.",
+    "sort": {
+      "modified": "Geändert",
+      "name": "Name",
+      "size": "Größe",
+      "created": "Hinzugefügt",
+      "flip": "Reihenfolge umkehren"
+    },
+    "new_folder": "Neuer Ordner",
+    "upload_files": "Dateien hochladen",
+    "upload_folder": "Einen Ordner hochladen",
+    "shared": {
+      "view_note": "Das wurde zum Ansehen mit dir geteilt. Nur Personen mit Bearbeitungszugriff können es ändern.",
+      "edit_note": "Das wurde zum Bearbeiten mit dir geteilt. Was du hier hinzufügst, gehört dem Eigentümer und nutzt seinen Speicher.",
+      "none": "Du hast noch nichts geteilt",
+      "none_hint": "Alles ist privat, bis du es teilst. Rechtsklick auf eine Datei oder einen Ordner und Teilen wählen.",
+      "from": "Von {name}",
+      "with_me_none": "Noch wurde nichts mit dir geteilt",
+      "mark": "Geteilt",
+      "leave": "Aus „Mit mir geteilt\" entfernen"
+    },
+    "folder": {
+      "empty": "Dieser Ordner ist leer"
+    },
+    "recent": {
+      "empty": "Noch nichts"
+    },
+    "found": {
+      "results": "{n} gefunden",
+      "none": "Nichts gefunden"
+    },
+    "role": {
+      "edit": "Kann bearbeiten",
+      "view": "Kann ansehen"
+    },
+    "bin": {
+      "empty_btn": "Papierkorb leeren",
+      "note": "Dateien im Papierkorb zählen weiter zu deinem Speicher und werden nach {days} Tagen endgültig gelöscht.",
+      "when": "Gelöscht am {date}",
+      "none": "Der Papierkorb ist leer",
+      "restore": "Wiederherstellen",
+      "forever": "Endgültig löschen",
+      "forever_title": "\"{name}\" endgültig löschen?",
+      "forever_body": "Das lässt sich nicht rückgängig machen.",
+      "empty_title": "Papierkorb leeren?",
+      "empty_body": "Alles darin wird endgültig gelöscht. Das lässt sich nicht rückgängig machen."
+    },
+    "media": {
+      "deleted_app": "Gelöschte App",
+      "app_note": "Was diese App hochgeladen hat. Jeder mit dem Link kann es öffnen.",
+      "note": "Bilder, Videos und Audio, die du über Ember und andere Apps hochgeladen hast. Sie haben öffentliche Links, jeder mit dem Link kann sie öffnen. Deine Drive-Dateien nicht.",
+      "delete": "Löschen",
+      "none": "Keine Medien hochgeladen",
+      "delete_title": "\"{name}\" löschen?",
+      "delete_body": "Der Link funktioniert dann nicht mehr, auch dort, wo du ihn gepostet hast. Das lässt sich nicht rückgängig machen."
+    },
+    "apps": {
+      "note": "Was Spiele und Apps in deinem Konto gespeichert haben. Du kannst es ansehen, aber nur die App, die es gespeichert hat, kann es ändern. Zum Löschen geh zu Mein Konto > Speicher.",
+      "keys": "{n} gespeicherte Werte",
+      "none": "Noch keine App hat etwas gespeichert",
+      "locked": "Gehört zu einer App",
+      "truncated": "(Das ist zu groß, um alles anzuzeigen. Hier steht nur der Anfang.)",
+      "key_one": "1 gespeicherter Wert"
+    },
+    "modified_on": "Geändert am {date}",
+    "my_account": "Mein Konto",
+    "sign_out": "Von Drive abmelden",
+    "cancel": "Abbrechen",
+    "new_folder_name": "Neuer Ordner",
+    "create": "Erstellen",
+    "save": "Speichern",
+    "link": {
+      "off": "Aus",
+      "gone": "Dieser Link funktioniert nicht mehr",
+      "gone_hint": "Der Eigentümer hat ihn vielleicht deaktiviert oder die Datei gelöscht.",
+      "sign_in_edit": "Zum Bearbeiten anmelden",
+      "add": "Zu „Mit mir geteilt\" hinzufügen",
+      "shared_by": "Geteilt von {name}",
+      "report": "Melden",
+      "read_only": "Du hast dich mit „Nur lesen\" angemeldet und kannst das nur ansehen. Melde dich ab und wieder an, um es zu bearbeiten.",
+      "edit_note": "Du kannst ohne Konto schauen. Melde dich bei Nookara an, um es zu bearbeiten."
+    },
+    "share": {
+      "access": "Zugriff",
+      "username": "Benutzername",
+      "add": "Teilen",
+      "private": "Nur du kannst das öffnen.",
+      "via_link": "über den Link",
+      "remove": "{name} entfernen",
+      "link": "Link",
+      "link_title": "Alle mit dem Link",
+      "link_off": "Aus: Niemand kann es über einen Link öffnen.",
+      "link_edit": "Alle können es ansehen. Wer sich bei Nookara anmeldet, kann es bearbeiten.",
+      "link_view": "Alle können es ansehen, ohne Konto.",
+      "copy": "Kopieren",
+      "title": "\"{name}\" teilen",
+      "copied": "Kopiert"
+    },
+    "done": "Fertig",
+    "close": "Schließen",
+    "prev": "Zurück",
+    "next": "Weiter",
+    "pv": {
+      "none": "Für diese Dateiart gibt es keine Vorschau.",
+      "none2": "Lade sie herunter, um sie auf deinem Gerät zu öffnen.",
+      "truncated": "(Nur der Anfang dieser Datei wird angezeigt. Lade sie herunter, um den Rest zu sehen.)"
+    },
+    "drop": "Zum Hochladen ablegen",
+    "up": {
+      "active": "{n} werden hochgeladen",
+      "done": "Uploads fertig",
+      "toggle": "Ein- oder ausblenden",
+      "ok": "Fertig",
+      "waiting": "Wartet",
+      "failed": "Fehlgeschlagen",
+      "cancel": "Abbrechen"
+    },
+    "offline": "Nookara ist gerade nicht erreichbar",
+    "retry": "Erneut versuchen",
+    "err_full": "Dein Speicher ist voll. Lösche etwas oder wechsle zu Nookara Pro.",
+    "err_name_taken": "In diesem Ordner gibt es schon etwas mit diesem Namen.",
+    "err_bad_name": "Dieser Name kann nicht verwendet werden.",
+    "err_long_name": "Dieser Name ist zu lang.",
+    "err_suspended": "Uploads sind für dein Konto gerade deaktiviert.",
+    "err_into_itself": "Ein Ordner kann nicht in sich selbst liegen.",
+    "err_too_deep": "So tief können Ordner nicht verschachtelt werden. Wähle einen weiter oben.",
+    "err_too_many": "Du hast die maximale Anzahl an Dateien und Ordnern für ein Drive erreicht.",
+    "err_scope": "Du hast dich mit „Nur lesen\" angemeldet, deshalb kann Drive nichts ändern. Melde dich ab und wieder an, um es zu erlauben.",
+    "err_not_found": "Das ist nicht mehr da.",
+    "err_view_only": "Du kannst das nur ansehen. Bitte den Eigentümer um Bearbeitungszugriff.",
+    "err_owner_only": "Das kann nur der Eigentümer.",
+    "err_other_drive": "Das geht nicht: Es bleibt im Drive des Eigentümers.",
+    "err_user_not_found": "Es gibt niemanden mit diesem Benutzernamen.",
+    "err_thats_you": "Das bist du. Du hast es schon.",
+    "err_too_many_shares": "Mehr Personen gehen nicht. Ein Link funktioniert für mehr.",
+    "err_rate_limited": "Du hast in der letzten Stunde viel geteilt. Versuch es später noch einmal."
+  }
+}

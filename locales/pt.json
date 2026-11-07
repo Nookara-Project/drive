@@ -1,0 +1,214 @@
+{
+  "drive": {
+    "err_generic": "Algo deu errado ({code}).",
+    "gate": {
+      "popup": "Seu navegador bloqueou a janela de login. Permita pop-ups neste site e tente de novo.",
+      "failed": "Não deu certo. Tente de novo.",
+      "button": "Entrar com Nookara",
+      "pitch_title": "Seus arquivos, na sua conta Nookara.",
+      "pitch": "Envie qualquer coisa, organize em pastas e acesse de qualquer navegador. Seus arquivos não têm links públicos.",
+      "lead": "O Drive tem o próprio login. Sua conta Nookara continua conectada onde está.",
+      "fine": "Na próxima tela você escolhe o que o Drive pode fazer."
+    },
+    "new": "Novo",
+    "storage_low": "Armazenamento (menos de 1% usado)",
+    "storage_pct": "Armazenamento ({pct}% usado)",
+    "storage_of": "{used} de {limit} usados",
+    "more_storage": "Obter mais armazenamento",
+    "search": "Pesquisar arquivos e pastas",
+    "menu": "Menu",
+    "account": "Conta",
+    "layout_list": "Lista",
+    "layout_grid": "Grade",
+    "f": {
+      "type": "Tipo",
+      "folders": "Pastas",
+      "images": "Imagens",
+      "video": "Vídeos",
+      "audio": "Áudio",
+      "docs": "Documentos",
+      "archives": "Compactados",
+      "modified": "Modificado",
+      "day": "Hoje",
+      "week": "Últimos 7 dias",
+      "month": "Últimos 30 dias",
+      "year": "Este ano",
+      "folder": "Uma pasta",
+      "location": "Local",
+      "anywhere": "Qualquer lugar"
+    },
+    "nav": {
+      "drive": "Meu Drive",
+      "with_me": "Compartilhados comigo",
+      "recent": "Recentes",
+      "shared": "Compartilhados",
+      "bin": "Lixeira",
+      "media": "Mídia",
+      "apps": "Arquivos de apps",
+      "home": "Início"
+    },
+    "sel": {
+      "clear": "Limpar seleção",
+      "count": "{n} selecionados",
+      "all": "Selecionar tudo",
+      "one": "Selecionar {name}",
+      "move_title": "Mover {n} para...",
+      "one_item": "1 item",
+      "n_items": "{n} itens",
+      "binned": "Movido para a lixeira"
+    },
+    "act": {
+      "download": "Baixar",
+      "share": "Compartilhar",
+      "move": "Mover",
+      "rename": "Renomear",
+      "delete": "Mover para a lixeira",
+      "more": "Mais",
+      "open": "Abrir",
+      "preview": "Visualizar",
+      "move_here": "Mover para cá"
+    },
+    "home": {
+      "title": "Olá de novo, {name}.",
+      "suggested": "Alterados recentemente",
+      "empty": "Nada aqui ainda",
+      "empty_hint": "Clique em Novo ou solte arquivos em qualquer lugar desta página."
+    },
+    "read_only": "Você entrou com Somente leitura: pode ver e baixar, mas não alterar nada. Saia e entre de novo para mudar isso.",
+    "sort": {
+      "modified": "Modificado",
+      "name": "Nome",
+      "size": "Tamanho",
+      "created": "Adicionado",
+      "flip": "Inverter a ordem"
+    },
+    "new_folder": "Nova pasta",
+    "upload_files": "Enviar arquivos",
+    "upload_folder": "Enviar uma pasta",
+    "shared": {
+      "view_note": "Isto foi compartilhado com você para ver. Só quem tem acesso de edição pode alterar.",
+      "edit_note": "Isto foi compartilhado com você para editar. O que você adicionar aqui pertence ao dono e usa o armazenamento dele.",
+      "none": "Você ainda não compartilhou nada",
+      "none_hint": "Tudo é privado até você compartilhar. Clique com o botão direito em um arquivo ou pasta e escolha Compartilhar.",
+      "from": "De {name}",
+      "with_me_none": "Nada foi compartilhado com você ainda",
+      "mark": "Compartilhado",
+      "leave": "Remover de Compartilhados comigo"
+    },
+    "folder": {
+      "empty": "Esta pasta está vazia"
+    },
+    "recent": {
+      "empty": "Nada ainda"
+    },
+    "found": {
+      "results": "{n} encontrados",
+      "none": "Nada encontrado"
+    },
+    "role": {
+      "edit": "Pode editar",
+      "view": "Pode ver"
+    },
+    "bin": {
+      "empty_btn": "Esvaziar lixeira",
+      "note": "Arquivos na lixeira ainda contam no seu armazenamento e são excluídos para sempre depois de {days} dias.",
+      "when": "Na lixeira desde {date}",
+      "none": "A lixeira está vazia",
+      "restore": "Restaurar",
+      "forever": "Excluir para sempre",
+      "forever_title": "Excluir \"{name}\" para sempre?",
+      "forever_body": "Isso não pode ser desfeito.",
+      "empty_title": "Esvaziar a lixeira?",
+      "empty_body": "Tudo nela será excluído para sempre. Isso não pode ser desfeito."
+    },
+    "media": {
+      "deleted_app": "App excluído",
+      "app_note": "O que este app enviou. Qualquer pessoa com o link pode abrir.",
+      "note": "Imagens, vídeos e áudios que você enviou pelo Ember e outros apps. Eles têm links públicos, então qualquer pessoa com o link pode abrir. Seus arquivos do Drive não.",
+      "delete": "Excluir",
+      "none": "Nenhuma mídia enviada",
+      "delete_title": "Excluir \"{name}\"?",
+      "delete_body": "O link para de funcionar, inclusive onde você o publicou. Isso não pode ser desfeito."
+    },
+    "apps": {
+      "note": "O que jogos e apps salvaram na sua conta. Você pode ver, mas só o app que salvou pode alterar. Para limpar algo, use Minha conta > Armazenamento.",
+      "keys": "{n} valores salvos",
+      "none": "Nenhum app salvou nada ainda",
+      "locked": "Pertence a um app",
+      "truncated": "(Isto é grande demais para mostrar tudo, então só o início aparece aqui.)",
+      "key_one": "1 valor salvo"
+    },
+    "modified_on": "Modificado em {date}",
+    "my_account": "Minha conta",
+    "sign_out": "Sair do Drive",
+    "cancel": "Cancelar",
+    "new_folder_name": "Nova pasta",
+    "create": "Criar",
+    "save": "Salvar",
+    "link": {
+      "off": "Desativado",
+      "gone": "Este link não funciona mais",
+      "gone_hint": "O dono pode ter desativado o link ou excluído o arquivo.",
+      "sign_in_edit": "Entrar para editar",
+      "add": "Adicionar a Compartilhados comigo",
+      "shared_by": "Compartilhado por {name}",
+      "report": "Denunciar",
+      "read_only": "Você entrou com Somente leitura, então só pode ver isto. Saia e entre de novo para editar.",
+      "edit_note": "Você pode ver sem conta. Entre no Nookara para editar."
+    },
+    "share": {
+      "access": "Acesso",
+      "username": "Nome de usuário",
+      "add": "Compartilhar",
+      "private": "Só você pode abrir isto.",
+      "via_link": "pelo link",
+      "remove": "Remover {name}",
+      "link": "Link",
+      "link_title": "Qualquer pessoa com o link",
+      "link_off": "Desativado: ninguém pode abrir com um link.",
+      "link_edit": "Qualquer pessoa pode ver. Quem entrar no Nookara pode editar.",
+      "link_view": "Qualquer pessoa pode ver, sem conta.",
+      "copy": "Copiar",
+      "title": "Compartilhar \"{name}\"",
+      "copied": "Copiado"
+    },
+    "done": "Concluir",
+    "close": "Fechar",
+    "prev": "Anterior",
+    "next": "Próximo",
+    "pv": {
+      "none": "Não há visualização para este tipo de arquivo.",
+      "none2": "Baixe para abrir no seu dispositivo.",
+      "truncated": "(Só o início deste arquivo é mostrado. Baixe para ver o resto.)"
+    },
+    "drop": "Solte para enviar",
+    "up": {
+      "active": "Enviando {n}",
+      "done": "Envios concluídos",
+      "toggle": "Mostrar ou ocultar",
+      "ok": "Concluído",
+      "waiting": "Aguardando",
+      "failed": "Falhou",
+      "cancel": "Cancelar"
+    },
+    "offline": "Não foi possível acessar o Nookara agora",
+    "retry": "Tentar de novo",
+    "err_full": "Seu armazenamento está cheio. Exclua algo ou assine o Nookara Pro.",
+    "err_name_taken": "Já existe algo com esse nome nesta pasta.",
+    "err_bad_name": "Esse nome não pode ser usado.",
+    "err_long_name": "Esse nome é longo demais.",
+    "err_suspended": "Os envios estão desativados na sua conta por enquanto.",
+    "err_into_itself": "Uma pasta não pode ficar dentro dela mesma.",
+    "err_too_deep": "As pastas não podem ir tão fundo. Escolha uma mais acima.",
+    "err_too_many": "Você chegou ao máximo de arquivos e pastas de um Drive.",
+    "err_scope": "Você entrou com Somente leitura, então o Drive não pode alterar nada. Saia e entre de novo para permitir.",
+    "err_not_found": "Isso não está mais aqui.",
+    "err_view_only": "Você só pode ver isto. Peça acesso de edição ao dono.",
+    "err_owner_only": "Só o dono pode fazer isso.",
+    "err_other_drive": "Não pode ir para lá: fica no Drive do dono.",
+    "err_user_not_found": "Não há ninguém com esse nome de usuário.",
+    "err_thats_you": "É você. Você já tem isso.",
+    "err_too_many_shares": "É o máximo de pessoas. Um link funciona para mais.",
+    "err_rate_limited": "Você compartilhou muito na última hora. Tente mais tarde."
+  }
+}

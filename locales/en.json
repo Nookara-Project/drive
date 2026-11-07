@@ -1,0 +1,214 @@
+{
+  "drive": {
+    "err_generic": "Something went wrong ({code}).",
+    "gate": {
+      "popup": "Your browser blocked the sign-in window. Allow pop-ups for this site and try again.",
+      "failed": "That didn't work. Try again.",
+      "button": "Sign in with Nookara",
+      "pitch_title": "Your files, on your Nookara account.",
+      "pitch": "Upload anything, keep it in folders and get to it from any browser. Your files have no public links.",
+      "lead": "Drive has its own sign-in. Your Nookara account stays signed in where it is.",
+      "fine": "You choose what Drive may do on the next screen."
+    },
+    "new": "New",
+    "storage_low": "Storage (under 1% full)",
+    "storage_pct": "Storage ({pct}% full)",
+    "storage_of": "{used} of {limit} used",
+    "more_storage": "Get more storage",
+    "search": "Search files and folders",
+    "menu": "Menu",
+    "account": "Account",
+    "layout_list": "List",
+    "layout_grid": "Grid",
+    "f": {
+      "type": "Type",
+      "folders": "Folders",
+      "images": "Pictures",
+      "video": "Videos",
+      "audio": "Audio",
+      "docs": "Documents",
+      "archives": "Archives",
+      "modified": "Modified",
+      "day": "Today",
+      "week": "Last 7 days",
+      "month": "Last 30 days",
+      "year": "This year",
+      "folder": "A folder",
+      "location": "Location",
+      "anywhere": "Anywhere"
+    },
+    "nav": {
+      "drive": "My Drive",
+      "with_me": "Shared with me",
+      "recent": "Recent",
+      "shared": "Shared",
+      "bin": "Bin",
+      "media": "Media",
+      "apps": "App files",
+      "home": "Home"
+    },
+    "sel": {
+      "clear": "Clear selection",
+      "count": "{n} selected",
+      "all": "Select all",
+      "one": "Select {name}",
+      "move_title": "Move {n} to...",
+      "one_item": "1 item",
+      "n_items": "{n} items",
+      "binned": "Moved to the bin"
+    },
+    "act": {
+      "download": "Download",
+      "share": "Share",
+      "move": "Move",
+      "rename": "Rename",
+      "delete": "Move to bin",
+      "more": "More",
+      "open": "Open",
+      "preview": "Preview",
+      "move_here": "Move here"
+    },
+    "home": {
+      "title": "Welcome back, {name}.",
+      "suggested": "Recently changed",
+      "empty": "Nothing here yet",
+      "empty_hint": "Press New, or drop files anywhere on this page."
+    },
+    "read_only": "You signed in with Read only, so you can look and download but not change anything. Sign out and back in to change that.",
+    "sort": {
+      "modified": "Modified",
+      "name": "Name",
+      "size": "Size",
+      "created": "Added",
+      "flip": "Flip the order"
+    },
+    "new_folder": "New folder",
+    "upload_files": "Upload files",
+    "upload_folder": "Upload a folder",
+    "shared": {
+      "view_note": "This was shared with you to view. Only people with edit access can change it.",
+      "edit_note": "This was shared with you to edit. What you add here belongs to its owner and uses their storage.",
+      "none": "You haven't shared anything",
+      "none_hint": "Everything is private until you share it. Right-click a file or folder and choose Share.",
+      "from": "From {name}",
+      "with_me_none": "Nothing has been shared with you yet",
+      "mark": "Shared",
+      "leave": "Remove from Shared with me"
+    },
+    "folder": {
+      "empty": "This folder is empty"
+    },
+    "recent": {
+      "empty": "Nothing yet"
+    },
+    "found": {
+      "results": "{n} found",
+      "none": "Nothing matches that"
+    },
+    "role": {
+      "edit": "Can edit",
+      "view": "Can view"
+    },
+    "bin": {
+      "empty_btn": "Empty bin",
+      "note": "Files in the bin still count toward your storage, and are deleted for good after {days} days.",
+      "when": "Binned {date}",
+      "none": "The bin is empty",
+      "restore": "Restore",
+      "forever": "Delete for good",
+      "forever_title": "Delete \"{name}\" for good?",
+      "forever_body": "This can't be undone.",
+      "empty_title": "Empty the bin?",
+      "empty_body": "Everything in it is deleted for good. This can't be undone."
+    },
+    "media": {
+      "deleted_app": "Deleted app",
+      "app_note": "What this app uploaded. Anyone with the link to one of these can open it.",
+      "note": "Pictures, video and audio you uploaded through Ember and other apps. These have public links, so anyone with the link can open them. Your Drive files do not.",
+      "delete": "Delete",
+      "none": "No media uploaded",
+      "delete_title": "Delete \"{name}\"?",
+      "delete_body": "Its link stops working, including anywhere you've posted it. This can't be undone."
+    },
+    "apps": {
+      "note": "What games and apps saved to your account. You can look, but only the app that saved it can change it. To clear something, use My Account > Storage.",
+      "keys": "{n} saved values",
+      "none": "No app has saved anything yet",
+      "locked": "Belongs to an app",
+      "truncated": "(This is too big to show all of it, so only the start is here.)",
+      "key_one": "1 saved value"
+    },
+    "modified_on": "Modified {date}",
+    "my_account": "My Account",
+    "sign_out": "Sign out of Drive",
+    "cancel": "Cancel",
+    "new_folder_name": "New folder",
+    "create": "Create",
+    "save": "Save",
+    "link": {
+      "off": "Off",
+      "gone": "This link doesn't work any more",
+      "gone_hint": "Its owner may have turned it off or deleted the file.",
+      "sign_in_edit": "Sign in to edit",
+      "add": "Add to Shared with me",
+      "shared_by": "Shared by {name}",
+      "report": "Report this",
+      "read_only": "You signed in with Read only, so you can only view this. Sign out and back in to edit it.",
+      "edit_note": "You can look without an account. Sign in to Nookara to edit it."
+    },
+    "share": {
+      "access": "Access",
+      "username": "Username",
+      "add": "Share",
+      "private": "Only you can open this.",
+      "via_link": "through the link",
+      "remove": "Remove {name}",
+      "link": "Link",
+      "link_title": "Anyone with the link",
+      "link_off": "Off: nobody can open this with a link.",
+      "link_edit": "Anyone can view it. Signing in to Nookara lets them edit it.",
+      "link_view": "Anyone can view it, no account needed.",
+      "copy": "Copy",
+      "title": "Share \"{name}\"",
+      "copied": "Copied"
+    },
+    "done": "Done",
+    "close": "Close",
+    "prev": "Previous",
+    "next": "Next",
+    "pv": {
+      "none": "There's no preview for this kind of file.",
+      "none2": "Download it to open it on your device.",
+      "truncated": "(Only the start of this file is shown. Download it to see the rest.)"
+    },
+    "drop": "Drop to upload",
+    "up": {
+      "active": "Uploading {n}",
+      "done": "Uploads finished",
+      "toggle": "Show or hide",
+      "ok": "Done",
+      "waiting": "Waiting",
+      "failed": "Failed",
+      "cancel": "Cancel"
+    },
+    "offline": "Can't reach Nookara right now",
+    "retry": "Try again",
+    "err_full": "Your storage is full. Delete something or upgrade to Nookara Pro.",
+    "err_name_taken": "Something with that name is already in this folder.",
+    "err_bad_name": "That name can't be used.",
+    "err_long_name": "That name is too long.",
+    "err_suspended": "Uploads are turned off on your account for now.",
+    "err_into_itself": "A folder can't go inside itself.",
+    "err_too_deep": "Folders can only go so deep. Pick a higher one.",
+    "err_too_many": "You have the most files and folders one Drive can hold.",
+    "err_scope": "You signed in with Read only, so Drive can't change anything. Sign out and back in to allow it.",
+    "err_not_found": "That isn't here any more.",
+    "err_view_only": "You can only view this. Ask its owner for edit access.",
+    "err_owner_only": "Only its owner can do that.",
+    "err_other_drive": "That can't move there: it stays on its owner's Drive.",
+    "err_user_not_found": "There's nobody with that username.",
+    "err_thats_you": "That's you. You already have it.",
+    "err_too_many_shares": "That's the most people one thing can be shared with. A link works for more.",
+    "err_rate_limited": "You've shared a lot in the last hour. Try again later."
+  }
+}
